@@ -1,4 +1,4 @@
-![PARALELL Informatik AG](/profile/PARALLEL.jpg)
+[![PARALELL Informatik AG](/profile/PARALLEL.jpg)](https://www.parallel.ch)
 # PARALELL Informatik AG
 **Informatik für Produktion und Logistik**
 
