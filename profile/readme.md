@@ -1,0 +1,1 @@
+# PARALELL Informatik AG
