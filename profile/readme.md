@@ -1,5 +1,5 @@
 [![PARALELL Informatik AG](/profile/PARALLEL.jpg)](https://www.parallel.ch)
-# PARALELL Informatik AG
+# PARALLEL Informatik AG
 **Informatik für Produktion und Logistik**
 
 Wir realisieren und betreuen IT-Lösungen mit Software, Datenbanken und Infrastruktur. Unsere Arbeit zeichnet sich durch hohe Branchenkompetenz sowie enge partnerschaftliche Beziehungen zu unseren Kund:innen aus.
