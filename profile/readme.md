@@ -6,6 +6,12 @@ Wir realisieren und betreuen IT-Lösungen mit Software, Datenbanken und Infrastr
 
 ## 
 
+**Technologien**  
+Unsere Software basiert auf einer Oracle Datenbank.  
+Die Applikationen sind mittels [Microsoft .NET](https://de.wikipedia.org/wiki/.NET_(Plattform)) realisiert.
+
+##
+
 PARALLEL Informatik AG  
 Inseliquai 8  
 6005 Luzern  
