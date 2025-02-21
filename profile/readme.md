@@ -20,4 +20,4 @@ Inseliquai 8
 info@parallel.ch  
 www.parallel.ch  
 
-[Bewirb dich](https://www.parallel.ch/karriere/offene_stellen/)
+[Bewirb dich](https://www.parallel.ch/jobs-karriere)
